@@ -4,8 +4,6 @@ a clear and concise guide for SME and the Swiss Data protection law (DSG)
 
 Initial Draft
 
-Sure, here's a structured guide for the Swiss Data Protection Law (DSG) that you can use on GitHub:
-
 # Swiss Data Protection Law (DSG) Guide
 
 ## Table of Contents

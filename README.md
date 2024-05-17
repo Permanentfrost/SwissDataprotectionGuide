@@ -1,8 +1,29 @@
 # SwissDataprotectionGuide
-a clear and concise guide for SME and the Swiss Data protection law (DSG) 
+
+This Guide is an attempt at a clear and concise guide for SME and the **Swiss** Data protection law (DSG). 
+
+Main Questions that always come up: 
+
+1. What is it?
+
+2. What do we need to do? (at a minimum)
+
+3. What are things to watch out for? 
+
+Legal ressources are: 
+
+**1. Datenschutzgesetz (DSG) / Official English Translation: Federal Act on Data Protection (FADP)** 
+
+You can browse this in english on the following link https://www.fedlex.admin.ch/eli/cc/2022/491/en)
+
+**1. Datenschutzverordnung (DSV) / *Inofficial* English Translation: Data Protection Regulation (DPR)** 
+
+You can browse this in german, french and italian on the following link https://www.fedlex.admin.ch/eli/oc/2022/568/de
 
 
-Initial Draft
+>[!WARNING]
+> Always note that English is not an official language of the Swiss Confederation. Even translations provided by the state are marked as *"for information purposes only without legal force."*
+
 
 # Swiss Data Protection Law (DSG) Guide
 
@@ -55,5 +76,6 @@ Employees also have the right to information about the processing of their data 
 
 ## Data Breaches
 Employees must report violations of data protection to the responsible authority in the company as soon as possible. In the case of violations with expected high risk, immediate notification to the Federal Data Protection and Information Commissioner (FDPIC) must be made, indicating the nature of the violation, its impact, and the measures taken or planned.
+
 
 

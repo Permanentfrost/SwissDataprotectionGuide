@@ -17,7 +17,7 @@ Legal ressources are:
 This is the actual law itself. 
 You can browse this in english on the following link https://www.fedlex.admin.ch/eli/cc/2022/491/en)
 
-**1. Datenschutzverordnung (DSV) / *Inofficial* English Translation: Data Protection Regulation (DPR)** 
+**2. Datenschutzverordnung (DSV) / *Inofficial* English Translation: Data Protection Regulation (DPR)** 
 
 This Regulation goes in depth on some topcis such as technical measures and other details. 
 You can browse this in german, french and italian on the following link https://www.fedlex.admin.ch/eli/oc/2022/568/de

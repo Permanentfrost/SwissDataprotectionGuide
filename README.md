@@ -204,4 +204,51 @@ Employees must report violations of data protection to the responsible authority
 # Data Protection Glossary
 
 
+| **Term**                     | **Description**                                                                                                                                                      |
+|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Data Protection Act (DPA)** | The Swiss federal law regulating the processing of personal data, aiming to protect the privacy and rights of individuals.                                            |
+| **Federal Act on Data Protection (FADP)** | Official English translation of the Swiss Data Protection Act.                                                                                              |
+| **Data Protection Regulation (DPR)** | Regulation detailing specific technical measures and other data protection requirements.                                                                         |
+| **Personal Data**            | Any information relating to an identified or identifiable person.                                                                                                    |
+| **Processing**               | Any operation performed on personal data, such as collection, storage, use, modification, or deletion.                                                                |
+| **Data Controller**          | The person or organization that determines the purposes and means of processing personal data.                                                                        |
+| **Data Processor**           | The person or organization that processes personal data on behalf of the data controller.                                                                             |
+| **Data Subject**             | The individual whose personal data is being processed.                                                                                                               |
+| **Consent**                  | A data subject's freely given, specific, informed, and unambiguous indication of agreement to the processing of their personal data.                                  |
+| **Data Breach**              | A security incident resulting in the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to personal data.                   |
+| **Privacy by Design**        | An approach to projects that promotes privacy and data protection compliance from the start.                                                                          |
+| **Privacy Impact Assessment (PIA)** | A process to evaluate and mitigate the data protection risks of a project.                                                                                           |
+| **Anonymization**            | The process of removing identifying information from data so that it can no longer be linked to an individual.                                                        |
+| **Pseudonymization**         | The process of replacing identifying information with pseudonyms to protect individuals' identities while retaining data utility.                                      |
+| **Data Portability**         | The right of a data subject to receive their personal data in a structured, commonly used format and to transfer it to another controller.                             |
+| **Data Retention**           | The practice of storing data for a specified period and ensuring its timely and secure deletion.                                                                      |
+| **Cross-Border Data Transfer**| The transfer of personal data to countries outside Switzerland, subject to specific legal requirements to ensure data protection.                                      |
+| **Right to Access**          | The right of individuals to obtain information about the processing of their personal data and to access that data.                                                    |
+| **Right to Rectification**   | The right of individuals to correct inaccurate or incomplete personal data.                                                                                          |
+| **Right to Erasure (Right to be Forgotten)** | The right of individuals to have their personal data deleted under certain circumstances.                                                                  |
+| **Right to Restriction of Processing** | The right of individuals to limit the processing of their personal data under specific conditions.                                                               |
+| **Right to Object**          | The right of individuals to object to the processing of their personal data for specific purposes, such as direct marketing.                                           |
+| **Supervisory Authority**    | The independent public authority responsible for overseeing the application of data protection laws and ensuring compliance.                                           |
+| **Data Protection Officer (DPO)** | A person appointed to oversee data protection strategy and compliance within an organization.                                                                        |
+| **Binding Corporate Rules (BCRs)** | Internal rules adopted by multinational companies to ensure personal data transfers within the organization comply with data protection laws.                           |
+| **Standard Contractual Clauses (SCCs)** | Contractual terms established by data protection authorities to ensure adequate safeguards for personal data transferred outside Switzerland.                       |
+| **Code of Conduct**          | Guidelines developed by industry bodies or associations to help ensure compliance with data protection laws.                                                          |
+| **Certification Mechanism**  | A process that certifies an organization's data processing operations comply with data protection standards.                                                           |
+| **Technical and Organizational Measures (TOMs)** | Measures implemented to ensure data security, including access controls, pseudonymization, and staff training.                                                     |
+| **Risk Assessment**          | The process of identifying and evaluating data protection risks to implement appropriate measures.                                                                    |
+| **Data Processing Agreement (DPA)** | A contract between a data controller and a data processor outlining the processing of personal data and compliance requirements.                                      |
+| **Profiling**                | The automated processing of personal data to evaluate certain personal aspects, often requiring explicit consent if high risk.                                          |
+| **Record of Data Processing Activities** | Documentation of all processing activities, including purposes, data types, and retention periods, mandatory for certain organizations.                                |
+| **Data Subject Rights**      | The rights granted to individuals under data protection laws, including access, rectification, erasure, and objection.                                                 |
+| **Data Protection Impact Assessment (DPIA)** | An evaluation of the impact of data processing activities on the protection of personal data, required for high-risk processing.                                   |
+| **FDPIC (Federal Data Protection and Information Commissioner)** | The Swiss authority responsible for enforcing data protection laws and overseeing compliance.                                          |
+| **Privacy by Default**       | The principle that systems and processes should be designed to automatically provide the highest level of privacy protection.                                          |
+| **Employee Training**        | Regular training for employees on data protection principles and practices.                                                                                           |
+| **Information Obligations**  | The duty to inform data subjects about the processing of their personal data, typically through a privacy policy.                                                      |
+| **Data Transfer Impact Assessment (TIA)** | An assessment required to evaluate the risks associated with transferring personal data to countries with different data protection standards.                     |
+
+
+
+
+
 

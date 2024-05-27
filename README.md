@@ -203,6 +203,9 @@ Employees must report violations of data protection to the responsible authority
 
 # Data Protection Glossary
 
+Quick overview of most important points. 
+
+
 
 | **Term**                     | **Description**                                                                                                                                                      |
 |------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|

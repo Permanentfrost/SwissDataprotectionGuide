@@ -1,4 +1,4 @@
-# SwissDataprotectionGuide
+# Swiss Data Protection Law (DSG) Guide
 
 This Guide is an attempt at a clear and concise guide for SME and the **Swiss** Data protection law (DSG). 
 
@@ -27,26 +27,9 @@ You can browse this in german, french and italian on the following link https://
 > Always note that English is not an official language of the Swiss Confederation. Even translations provided by the state are marked as *"for information purposes only without legal force."*
 
 
-# Swiss Data Protection Law (DSG) Guide
+# Basic Compliance Checklist
 
-## Table of Contents
-1. [Record of Data Processing Activities](#record-of-data-processing-activities)
-2. [Risk Assessment and Data Protection Impact Assessment](#risk-assessment-and-data-protection-impact-assessment)
-3. [Profiling](#profiling)
-4. [Transfer of Personal Data Abroad](#transfer-of-personal-data-abroad)
-5. [Processing of Personal Data Abroad](#processing-of-personal-data-abroad)
-6. [Technical and Organizational Measures](#technical-and-organizational-measures)
-7. [Privacy by Default and Privacy by Design](#privacy-by-default-and-privacy-by-design)
-8. [Employee Training](#employee-training)
-9. [Information Obligations](#information-obligations)
-10. [Right to Information/Data Disclosure](#right-to-information-data-disclosure)
-11. [Employees' Right to Information](#employees-right-to-information)
-12. [Data Breaches](#data-breaches)
-
-
-# Swiss Data Protection Law (DSG) Guide
-
-## Quick Starter Guide / Checklist for Compliance
+Use this checklist as a starting point. **Note: Chapters are sorted by importance.**
 
 ### 1. Record of Data Processing Activities
 
@@ -84,7 +67,7 @@ You can browse this in german, french and italian on the following link https://
   - [ ] Log reviews
   - [ ] Processing regulations for sensitive data
 - [ ] Reporting Obligations:
-  - [ ] Notify the FDPIC if data confidentiality, integrity, or availability is compromised and poses significant risk.
+  - [ ] Notify the Federal Data Protection and Information Commissioner (FDPIC/EDÖB)  if data confidentiality, integrity, or availability is compromised and poses significant risk.
   - [ ] Document the incident for two years.
   - [ ] Inform affected individuals if they need to take protective measures.
 
@@ -132,10 +115,12 @@ You can browse this in german, french and italian on the following link https://
 - [ ] If necessary, ensure consent is informed and voluntary, and explicit for sensitive data and high-risk profiling.
 
 
-## Deep Dive
+# Deep Dive
+
 
 >[!IMPORTANT]
 > Deep Dive section to be expanded/completed. 
+
 
 ### Record of Data Processing Activities
 
